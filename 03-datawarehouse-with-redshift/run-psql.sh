@@ -1,0 +1,1 @@
+psql -h redshift-cluster.cibg10aoo8ja.us-east-1.redshift.amazonaws.com -U awsuser -d dev -p 5439
